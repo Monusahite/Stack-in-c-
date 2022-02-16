@@ -20,6 +20,7 @@ class stack{
       top--;
       return k;
     }
+    
 };
 int main(){
     
